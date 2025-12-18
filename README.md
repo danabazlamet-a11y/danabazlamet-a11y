@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Dana
 
 💻 Beginner Web Developer  
-📍 From Palestine  
 🌱 Learning Git & GitHub  
 
 ---
