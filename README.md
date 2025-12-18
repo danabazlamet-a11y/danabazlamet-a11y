@@ -1,20 +1,38 @@
-<<<<<<< HEAD
-Hi 
-=======
-## Hi there 👋
+# 👋 Hi there, I'm Dana
 
-<!--
-**danabazlamet-a11y/danabazlamet-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer  
+📍 From Palestine  
+🌱 Learning Git & GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> d5f18ad4afd47829285fcdc8a2aeb51aea4a441b
+## 👩‍💻 About Me
+I'm currently learning:
+- HTML
+- CSS
+- Git
+
+🎯 Goal: Become a professional web developer  
+✨ I love learning new technologies
+
+---
+
+## 🛠 Skills
+- HTML  
+- CSS  
+- Git & GitHub  
+
+---
+
+## 📂 My Projects
+- **myproject** – This is a test repo
+
+---
+
+## 📫 Contact Me
+- GitHub: @danabazlamet-ally  
+
+---
+
+⭐ Thanks for visiting my profile!
+
